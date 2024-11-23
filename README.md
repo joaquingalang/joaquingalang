@@ -1,3 +1,5 @@
+<img width="100%" src="https://media.discordapp.net/attachments/1042817854359207977/1309983540062060634/image.png?ex=674390be&is=67423f3e&hm=f23d6a3dbeea23f50ca0096ec91d10a39021ce9faedaa163a1f80518520144fa&=&format=webp&quality=lossless&width=810&height=270"/>
+
 # Make Yourself At Home 🏠
   Hi! 👋 My name is **Joaquin Galang**, a third-year Computer Science student from Holy Angel University and an aspiring professional software developer. I enjoy creating fun and interesting applications, coding challenges, and teaching beginners how to code.  
 
