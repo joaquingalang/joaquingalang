@@ -1,3 +1,5 @@
+<img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/>
+
 ## Make yourself at home 🏠
 ---
 Hi! 👋 My name is Joaquin Galang, a third-year Computer Science student from Holy Angel University and an aspiring professional software developer. 🔨 Let's build cool stuff together! 👾
