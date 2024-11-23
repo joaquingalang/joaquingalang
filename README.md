@@ -1,4 +1,12 @@
-## Hi there 👋
+## Make yourself at home 🏠
+---
+Hi! 👋 My name is Joaquin Galang, a third-year Computer Science student from Holy Angel University and an aspiring professional software developer. 🔨 Let's build cool stuff together! 👾
+
+## 🌱 Currently, I'm Learning 
+![Unity](https://www.cdnlogo.com/logos/u/20/unity.svg) ![Docker](https://miro.medium.com/v2/resize:fit:400/1*KWeXamv1oqIvzKLlPhn-rA.png) 
+
+## 🛠️ Tools I Use
+![Python](https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png) ![Java](https://i.pinimg.com/originals/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.png)
 
 <!--
 **JoaquinGalang/JoaquinGalang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
