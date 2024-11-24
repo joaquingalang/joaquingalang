@@ -6,11 +6,11 @@
 <h3 align="center"><b><i>✨🔨 Let's build cool stuff together 👾✨</i></b></h3>
 
 ## 🌱 Currently, I'm Learning 
-[![My Skills](https://skillicons.dev/icons?i=unity,django,docker&perline=7)]
+![My Skills](https://skillicons.dev/icons?i=unity,django,docker&perline=7)
 
 
 ## 🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=python,cs,java,javascript,jquery,html,css,tailwind,dart,flutter,firebase,mongodb,mysql,git,github,vscode,pycharm,androidstudio&perline=7)]
+![My Skills](https://skillicons.dev/icons?i=python,cs,java,javascript,jquery,html,css,tailwind,dart,flutter,firebase,mongodb,mysql,git,github,vscode,pycharm,androidstudio&perline=7)
 
 
 ## 📊 GitHub Statistics
