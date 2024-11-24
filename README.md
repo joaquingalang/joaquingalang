@@ -6,27 +6,12 @@
 <h3 align="center"><b><i>✨🔨 Let's build cool stuff together 👾✨</i></b></h3>
 
 ## 🌱 Currently, I'm Learning 
-[![My Skills](https://skillicons.dev/icons?i=unity,django,docker&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,django,docker&perline=5)](#)
 
 
 ## 🛠️ Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=python,cs,java,javascript,jquery,html,css,tailwind,dart,flutter,firebase,mongodb,mysql,git,github,vscode,pycharm,androidstudio&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,java,javascript,jquery,html,css,tailwind,dart,flutter,firebase,mongodb,mysql,git,github,vscode,pycharm,androidstudio&perline=5)](#)
 
 
 ## 📊 GitHub Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinGalang&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinGalang&layout=compact&theme=merko)
-
-<!--
-**JoaquinGalang/JoaquinGalang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
