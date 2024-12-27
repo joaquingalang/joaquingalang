@@ -3,7 +3,7 @@
 # 🐙 Welcome to my GitHub! 🧪
   Hi! 👋 My name is **Joaquin Galang**, a third-year Computer Science student from Holy Angel University and an aspiring professional software developer. I enjoy creating fun and interesting applications, coding challenges, and teaching beginners how to code.  
 
-<h3 align="center"><b><i>✨🔨 Let's build cool stuff together 👾✨</i></b></h3>
+<h3 align="center">✨🔨<b><i> Let's build cool stuff together </i></b>👾✨</h3>
 
 ## 🌱 Currently, I'm Learning 
 ![My Skills](https://skillicons.dev/icons?i=unity,r,aws,docker,django&perline=7)
