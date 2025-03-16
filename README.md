@@ -10,7 +10,7 @@
 
 
 ## 🛠️ Languages & Tools
-![My Skills](https://skillicons.dev/icons?i=python,cs,java,javascript,jquery,html,css,tailwind,dart,flutter,firebase,mongodb,mysql,git,github,vscode,pycharm,androidstudio&perline=7)
+![My Skills](https://skillicons.dev/icons?i=python,cs,java,javascript,jquery,html,css,tailwind,dart,flutter,firebase,mongodb,mysql,git,github,vscode,pycharm,androidstudio,figma&perline=7)
 
 
 ## 📊 GitHub Statistics
