@@ -6,7 +6,7 @@
 <h3 align="center">✨🔨<b><i> Let's build cool stuff together </i></b>👾✨</h3>
 
 ## 🌱 Currently, I'm Learning 
-![My Skills](https://skillicons.dev/icons?i=unity,r,aws,docker,django&perline=7)
+![My Skills](https://skillicons.dev/icons?i=unity,r,aws,docker,django,supabase,react,nextjs&perline=7)
 
 
 ## 🛠️ Languages & Tools
