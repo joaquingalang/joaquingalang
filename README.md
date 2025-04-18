@@ -14,10 +14,29 @@
 
 
 ## 📊 GitHub Statistics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joaquingalang&theme=dark)](https://git.io/streak-stats)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquingalang&show_icons=true&theme=merko)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquingalang&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=joaquingalang&theme=matrix&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="left">
+
+  
+  <picture>
+    <source srcset="https://streak-stats.demolab.com/?user=joaquingalang&theme=dark"/>
+    <img src="https://streak-stats.demolab.com/?user=joaquingalang&theme=dark" />
+  </picture>
+
+  <br>
+  <br>
+  
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=joaquingalang&show_icons=true&theme=merko"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=joaquingalang&show_icons=true&theme=merko" height=195 />
+  </picture>
+
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquingalang&layout=donut&theme=merko"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquingalang&layout=donut&theme=merko" height=195 />
+  </picture>
+
+  <br> 
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=joaquingalang&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
