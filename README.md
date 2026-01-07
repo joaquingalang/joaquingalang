@@ -11,32 +11,3 @@
 
 ## 🛠️ Languages & Tools
 ![My Skills](https://skillicons.dev/icons?i=python,cs,java,javascript,jquery,typescript,react,html,css,tailwind,dart,flutter,firebase,supabase,mongodb,mysql,git,github,vscode,pycharm,androidstudio,figma&perline=9)
-
-
-## 📊 GitHub Statistics
-
-<div align="left">
-
-  
-  <picture>
-    <source srcset="https://streak-stats.demolab.com/?user=joaquingalang&theme=dark"/>
-    <img src="https://streak-stats.demolab.com/?user=joaquingalang&theme=dark" />
-  </picture>
-
-  <br>
-  <br>
-  
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=joaquingalang&show_icons=true&theme=merko"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=joaquingalang&show_icons=true&theme=merko" height=195 />
-  </picture>
-
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquingalang&layout=donut&theme=merko"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquingalang&layout=donut&theme=merko" height=195 />
-  </picture>
-
-  <br> 
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=joaquingalang&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
