@@ -8,8 +8,14 @@ Hi! 👋 My name is **Joaquin Galang**, a fourth-year Computer Science student f
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=68B587&vCenter=true&repeat=false&width=435&lines=%F0%9F%8C%B1+Currently%2C+I'm+Learning)](https://git.io/typing-svg)
 ---
-![My Skills](https://skillicons.dev/icons?i=unity,aws,docker,django,nextjs,angular,laravel&perline=9)
+![My Skills](https://skillicons.dev/icons?i=unity,aws,docker,django,nextjs,angular,laravel&perline=8)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=7000&pause=1000&color=68B587&vCenter=true&repeat=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Languages+%26+Tools)](https://git.io/typing-svg)
 ---
-![My Skills](https://skillicons.dev/icons?i=python,cs,java,javascript,jquery,typescript,react,html,css,tailwind,dart,flutter,firebase,supabase,mongodb,mysql,git,github,vscode,pycharm,androidstudio,figma&perline=9)
+![My Skills](https://skillicons.dev/icons?i=python,cs,java,javascript,jquery,typescript,react,html,css,tailwind,dart,flutter,firebase,supabase,mongodb,mysql,git,github,vscode,pycharm,androidstudio,figma&perline=8)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=9000&pause=1000&color=68B587&repeat=false&width=435&lines=%F0%9F%93%8A+GitHub+Statistics)](https://git.io/typing-svg)
+---
+<img src="./metrics.plugin.isocalendar.fullyear.svg">
+<img src="./metrics.plugin.languages.svg">
+
