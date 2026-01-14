@@ -4,7 +4,7 @@
 ---
 Hi! 👋 My name is **Joaquin Galang**, a fourth-year Computer Science student from Holy Angel University and an aspiring professional software developer. I enjoy creating fun and interesting applications, coding challenges, and teaching beginners how to code.  
 
-<h3 align="center">✨🔨<b><i> Let's build cool stuff together </i></b>👾✨</h3>
+<h5 align="center">✨🔨<b><i> Let's build cool stuff together </i></b>👾✨</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=68B587&vCenter=true&repeat=false&width=435&lines=%F0%9F%8C%B1+Currently%2C+I'm+Learning)](https://git.io/typing-svg)
 ---
