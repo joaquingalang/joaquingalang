@@ -15,7 +15,7 @@ Portfolio: [joaquingalang.dev](https://joaquingalang.dev)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=68B587&vCenter=true&repeat=false&width=435&lines=Currently%2C+I'm+Learning)](https://git.io/typing-svg)
 
 ---
-![My Skills](https://skillicons.dev/icons?i=php,angular,dotnet&perline=8)
+![My Skills](https://skillicons.dev/icons?i=php,angular,dotnet,kotlin,swift&perline=8)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=7000&pause=1000&color=68B587&vCenter=true&repeat=false&width=435&lines=Languages+%26+Tools)](https://git.io/typing-svg)
 
